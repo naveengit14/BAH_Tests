@@ -1,1 +1,2 @@
 naveen first push on the BADP branch
+this text written from the GITHUB to check the pull and fetch command executed from GITbash desktop.
