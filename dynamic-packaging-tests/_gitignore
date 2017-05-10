@@ -1,0 +1,5 @@
+# Ignore idea project format
+.idea/
+target/
+test.properties
+*.iml
